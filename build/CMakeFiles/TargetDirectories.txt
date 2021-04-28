@@ -1,0 +1,3 @@
+/home/houlam/things/learning_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/houlam/things/learning_cmake/build/CMakeFiles/edit_cache.dir
+/home/houlam/things/learning_cmake/build/CMakeFiles/hello-world.dir
